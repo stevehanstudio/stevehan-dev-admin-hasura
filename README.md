@@ -1,6 +1,8 @@
 # SteveHan.dev Admin
 
-This project implements an admin panel to manage the content of my portfolio website www.stevehan.dev.  Tools used in this project include React.js, Typescript, TailwindCSS, GraphQL, AWS AppSync, and AWS Amplify.  Anyone can view/read the web application, but in order to create, update, and delete, you would need to login with admin credentials, which only I have.  [Visit live deployment of project](https://dev.d28cbri168nrvc.amplifyapp.com)
+This project implements an admin panel to manage the content of my portfolio website www.stevehan.dev.  Tools used in this project include Next.js, React.js, Typescript, TailwindCSS, Hasura, PostgreSQL, and Clerk authentication.  Anyone can view/read the web application, but in order to create, update, and delete, you would need to login with admin credentials, which only I have.
+<br/><br/>
+[Visit live deployment of project](https://dev.d28cbri168nrvc.amplifyapp.com)
 
 ## Resources:
 
